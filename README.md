@@ -1,1 +1,2 @@
-登录要带请求头 Authorization:Bearer 生成的token
+访问接口需要带上登录返回的token 
+具体格式为 Authorization:Bearer 生成的token
